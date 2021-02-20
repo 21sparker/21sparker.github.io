@@ -1,0 +1,62 @@
+{
+    "name": "Sean Parker",
+    "description": "An aspiring developer",
+    "projects": [
+        {
+            "title": "Craigs2ndList",
+            "description": "A redesigned version of the website craigslist that modernizes its UI yet maintains its simplicity.",
+            "technology": {
+                "frontend": ["React", "Redux", "HTML5", "CSS", "JS"],
+                "backend": ["Postgres", "Express", "Knex", "ObjectionJS", "jest", "Typescript"]
+            },
+            "source_code": "https://github.com/chingu-voyages/v26-bears-team-06",
+            "live_link": "https://craigs-second-list.herokuapp.com/"
+        },
+        {
+            "title": "Favorite Fonts",
+            "description": "A clone of the Google Fonts website that allows a user to test out various Google Fonts.",
+            "technology": {
+                "frontend": ["React", "HTML5", "CSS", "JS"],
+                "backend": ["Python", "Flask"]
+            },
+            "source_code": "https://github.com/21sparker/favorite-fonts",
+            "live_link": "https://ecstatic-nobel-b9bcd7.netlify.app/"
+        },
+        {
+            "title": "Devee Kanban Board",
+            "description": "A Kanban Board to track tasks and projects",
+            "technology": {
+                "frontend": ["HTML5", "CSS", "JS", "React"],
+                "backend": ["Python", "Flask"]
+            },
+            "source_code": "https://github.com/21sparker/devee"
+        },
+        {
+            "title": "TimeTracker",
+            "description": "Task tracker to start/stop time spent on tasks throughout the day",
+            "technology": ["C#", "WPF", "SQLite", "Dapper"],
+            "source_code": "https://github.com/21sparker/time-tracker"
+        }
+    ],
+    "experience": [
+        {
+            "title": "RPA Automation Developer",
+            "company": "PricewaterhouseCoopers",
+            "startDate": "July 2018",
+            "endDate": null,
+            "jobDescription": [
+                "Develop single page apps with HTML, CSS, and JS for different teams to allow them to search and filter through data stored in Google Sheets.",
+                "Engage with various teams to define, plan, and develop UiPath automations that address the teams’ pain points.",
+                "Write Python scripts to automate small admin tasks for my team."
+            ]
+        }
+    ],
+    "contact": {
+        "email": "seanparker500@gmail.com"
+    },
+    "external": {
+        "linkedin": "https://www.linkedin.com/in/sean-d-parker/",
+        "github": "https://github.com/21sparker",
+        "resume": "https://docs.google.com/document/d/11AZm_VB-sabirDQRxQsMCm49Q8g_tON8KMFSvc9an5g/edit?usp=sharing"
+    }
+}
