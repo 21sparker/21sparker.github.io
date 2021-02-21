@@ -22,6 +22,10 @@ p {
     color: #ce9178;
 }
 
+.value-null {
+    color: #569cd6;
+}
+
 .curly-brace {
     color: #c9d4c9;
 }
